@@ -1,0 +1,124 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+body{
+    
+    Width: 1440px;
+    Height: 2746px;
+    Top: 1258px;
+    Left:-6195px; 
+    background-color: #C1CAC8;
+}
+
+fondo_blanco{
+    position: absolute;
+    width: 1352px;
+    height: 2638px;
+    left: 44px;
+    top: 45px;
+    background: #FFFEFE;
+    border-radius: 41px;
+    }
+
+barra{
+    position: absolute;
+    width: 1352px;
+    height: 85px;
+    left: 0px;
+    top: 224px;
+    
+    background: #02475E;
+
+}
+
+inicio{
+position:static ;
+width: 111px;
+height: 48px;
+left: 152px;
+top: 243px;
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+color: #FFFFFF; 
+margin-left:50px;
+}
+
+catalogo{ 
+    position:static ;
+    width: 180px;
+    height: 48px;
+    left: 415px;
+    top: 243px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FFFFFF;
+    margin-left:150px;
+    }
+
+ solicita{ 
+    position:static ;
+    width: 276px;
+    height: 39px;
+    left: 794px;
+    top: 243px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FFFFFF;
+    margin-left:250px;
+}   
+ contacto{ 
+    position:static ;
+    width: 165px;
+    height: 48px;
+    left: 1177px;
+    top: 243px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color: #FFFFFF; 
+    margin-left:350px;
+ }
+
+h2 {
+    background-color: blueviolet;
+}
+
+tituloLogo{
+    position: absolute;
+width: 486px;
+height: 82px;
+left: 213px;
+top: 70px;
+font-family: Viga;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 86px;
+letter-spacing: -0.02em;
+color: #000000;
+}
+textoEncabezado{ 
+width: 314px;
+height: 16px;
+left: 208px;
+top: 144px;
+font-family: Vollkorn SC;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+color: #000000;
+}
